@@ -1,0 +1,21 @@
+# Site settings
+title: Code and Fuzzy Animals
+header-img: img/home-bg.png
+email: thejessicarudder@gmail.com
+copyright_name: JessRudder
+description: > # this means to ignore newlines until "baseurl:"
+  The two best things in the world
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: JessRudder
+github_username:  JessRudder
+learn_profile: JessRudder
+email_username: thejessicarudder@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
