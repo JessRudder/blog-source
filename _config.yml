@@ -23,7 +23,6 @@ markdown: kramdown
 plugins:
   - jekyll-paginate
   - jekyll-compose
-  - octopress-image-tag
 
 paginate: 6
 paginate_path: "blog/page:num"
