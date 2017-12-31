@@ -20,11 +20,9 @@ github_username:  jessrudder
 # Build settings
 markdown: kramdown
 
-
 plugins:
   - jekyll-paginate
   - jekyll-compose
-  - jekyll-youtube
   - octopress-image-tag
 
 paginate: 6
