@@ -3,7 +3,7 @@ layout: post
 title:  "Ruby and the Amazing Splat *"
 author: JessRudder
 date:   2014-06-24 23:00:25 +0000
-categories: code, ruby
+categories: code ruby
 images:
 - images/@stock/post-2.jpg
 - images/@stock/post-3.jpg

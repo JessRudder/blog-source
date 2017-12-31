@@ -3,7 +3,7 @@ layout: post
 title: "Teaching a Computer Ancient Greek"
 author: JessRudder
 date: 2014-07-08 18:13:51 -0400
-categories: linguistics, python, ruby
+categories: linguistics python ruby
 images:
 - images/@stock/post-3.jpg
 excerpt:

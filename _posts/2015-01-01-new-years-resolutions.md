@@ -3,7 +3,7 @@ layout: post
 title: "New Year's Resolutions"
 author: JessRudder
 date: 2015-01-01 21:24:53 -0500
-categories: programming, flatiron-school
+categories: programming flatiron-school
 images:
 - images/@stock/post-6.jpg
 excerpt:

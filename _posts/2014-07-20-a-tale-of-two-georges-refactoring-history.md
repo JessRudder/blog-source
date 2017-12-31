@@ -3,7 +3,7 @@ layout: post
 title: "A Tale of Two Georges: Refactoring History with the N+1 Problem"
 author: JessRudder
 date: 2014-07-20 18:26:51 -0400
-categories: n-plus-1, sql, activerecord
+categories: n-plus-1 sql activerecord
 images:
 - images/@stock/post-6.jpg
 excerpt:

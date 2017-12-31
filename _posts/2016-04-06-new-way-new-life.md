@@ -3,7 +3,7 @@ layout: post
 title: new way, new life
 author: hornyou
 date: 2016-04-06 06:48:03 +0800
-categories: travel, life
+categories: travel life
 images:
 - images/@stock/post-2.jpg
 - images/@stock/post-3.jpg

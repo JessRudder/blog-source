@@ -3,7 +3,7 @@ layout: post
 title: "A Fun Way to Help Out"
 author: JessRudder
 date: 2014-06-29 18:11:21 -0400
-categories: base, teaching
+categories: base teaching
 images:
 - images/@stock/post-6.jpg
 excerpt:

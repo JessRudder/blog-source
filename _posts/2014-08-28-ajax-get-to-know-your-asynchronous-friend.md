@@ -3,7 +3,7 @@ layout: post
 title: "AJAX - Get to Know Your Asynchronous Friend"
 author: JessRudder
 date: 2014-08-28 18:33:35 -0400
-categories: ajax, xml, json
+categories: ajax xml json
 images:
 - images/@stock/post-7.jpg
 excerpt:
