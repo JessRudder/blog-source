@@ -6,15 +6,17 @@ jQuery(document).ready(function($) {
 
 
   if($('form#contact_form').length > 0) {
+    debugger;
     $('form#contact_form').validate({
       messages: { },
       submitHandler: function(form) {
         $.ajax({
           type: 'POST',
-          url: 'send.php',
+          url: urlGen(),
           data: $(form).serialize(),
+          dataType: "json",
           success: function(data) {
-            if(data.match(/success/)) {
+            if(data.success) {
               $(form).trigger('reset');
               $('#thanks').show().fadeOut(5000);
             }
@@ -249,4 +251,7 @@ jQuery(document).ready(function($) {
 
   }
 
+  function urlGen() {
+    return 'https://formspree.io/' + 'thejessicarudder+personal-site' + '@' + 'gmail' + '.' + 'com'
+  }
 });

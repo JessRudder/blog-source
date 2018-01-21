@@ -5,7 +5,7 @@ author: JessRudder
 date:   2014-06-10 12:45:38 -0500
 categories: open-source
 images:
-- images/@stock/post-6.jpg
+- images/@stock/open-source.jpg
 excerpt:
   The truth is, I'm so new to Ruby that I would not trust myself to identify an error; however, in this instance, the much more knowledgable instructor said it was likely an error.
 ---

@@ -34,7 +34,7 @@ section_id: contact
       <div class="contact-details">
         <i class='icon-basic-mail'></i>
         <h3>Email</h3>
-        <p>info@tato-team.com</p>
+        <p>thejessicarudder@gmail.com</p>
       </div>
     </div>
   </div>
@@ -49,8 +49,10 @@ section_id: contact
             Thanks for contacting us, we'll be in touch soon!
           </p>
           <input class='required' name='name' placeholder='NAME' type='text'>
-          <input class='required email' name='email' placeholder='EMAIL' type='text'>
+          <input class='required' type="email" name="_replyto" placeholder='EMAIL' type='text'>
           <input class='required' name='subject' placeholder='SUBJECT' type='text'>
+          <input type="hidden" name="_subject" value="Greetings from my Personal Site!" />
+          <input type="text" name="_gotcha" style="display:none" />
           <textarea class='required' name='message' placeholder='MESSAGE'></textarea>
           <div class='spacing'></div>
           <input class='button small boxed brown' type='submit'>
