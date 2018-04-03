@@ -1,12 +1,4 @@
-- name: Home
-  path: index.html
-  section_id: home
-  children:
-    - name: Home Studio
-      path: index.html
-    - name: Home Personal
-      path: index-personal.html
-- name: Pages
+- name: Who I Am
   path: about.html
   section_id: pages
   children:
@@ -16,21 +8,22 @@
       path: services.html
     - name: Services 2
       path: services-2.html
-- name: Works
+- name: What I Do
   path: portfolio.html
   section_id: works
   children:
-    - name: Portfolio Style 1
+    - name: Code
       path: portfolio.html
-    - name: Portfolio Style 2
+    - name: Talks
       path: portfolio-2.html
-    - name: Single Page 1
+    - name: Videos
       path: portfolio-item.html
     - name: Single Page 2
       path: portfolio-item-2.html
-- name: Contact
-  path: contact.html
-  section_id: contact
-- name: Blog
+- name: Where I Write
   path: blog/
   section_id: blog
+- name: Get In Touch
+  path: contact.html
+  section_id: contact
+
